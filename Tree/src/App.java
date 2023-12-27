@@ -6,5 +6,6 @@ public class App {
         BST.add(70);
 
         BST.inorder();
+        System.out.println("SIZE: " + BST.size());
     }
 }
