@@ -4,5 +4,7 @@ public class App {
         BST.add(56);
         BST.add(30);
         BST.add(70);
+
+        BST.inorder();
     }
 }
